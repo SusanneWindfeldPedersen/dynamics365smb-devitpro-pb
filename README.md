@@ -1,3 +1,5 @@
+# dynamics365smb-devitpro-pb
+Welcome to the repository for developer and IT-pro content for Dynamics 365 Business Central! this repo is public, and we welcome your contributions.
 
 # Contributing
 
